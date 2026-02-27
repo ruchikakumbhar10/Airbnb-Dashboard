@@ -151,3 +151,40 @@ Optional:
 - View `Dashboard_Screenshot.png` for preview.
 
 ---
+## 📈 Results and Conclusion
+
+The Airbnb NYC market shows clear borough-level price differences, with Manhattan leading in premium pricing.
+
+Entire homes dominate revenue potential, while shared and private rooms cater more to budget travelers.
+
+Availability and review metrics highlight untapped potential for certain listings.
+
+The dashboard enables data-driven decisions for hosts and market analysts to optimize pricing and performance strategies.
+
+---
+
+## 🚀 Future Work
+
+- Add time-series trend analysis (monthly/yearly trends)
+- Integrate occupancy rate analysis
+- Build predictive pricing model
+- Add geographic heatmap visualization
+- Deploy dashboard to Power BI Service for live sharing
+
+---
+
+## 👩‍💻 Author
+
+Ruchika Kumbhar  
+Data Analyst | Aspiring Data Scientist  
+Power BI | SQL | Python | Data Visualization  
+
+---
+
+## ⭐ Ending Note
+
+This project is part of my data analyst learning journey. It demonstrates my ability to clean, analyze, and visualize real-world datasets using Power BI to generate actionable insights.
+
+I’m continuously learning and open to feedback to improve my analytical and storytelling skills.
+
+If you found this project helpful, feel free to star the repository!
