@@ -72,3 +72,82 @@ Each row represents a unique Airbnb listing.
 The dataset enables analysis of pricing trends, neighborhood performance, and listing behavior.
 
 ---
+## 🛠️ Tools and Technologies
+
+- Power BI  
+- DAX (Data Analysis Expressions)  
+- Data Cleaning & Transformation  
+- Data Modeling  
+- Interactive Visualization  
+
+---
+
+## 🔎 Methods
+
+### 1️⃣ Data Preparation
+- Cleaned missing and inconsistent values
+- Structured dataset for analysis
+- Created calculated columns and measures using DAX
+
+### 2️⃣ Data Modeling
+- Built relationships (if applicable)
+- Created KPIs for core performance metrics
+
+### 3️⃣ Dashboard Development
+- Designed interactive visual elements
+- Implemented dynamic filters for:
+  - Room Type
+  - Borough
+  - Group categories
+- Developed comparative visualizations for pricing and listing performance
+
+---
+
+## 📊 Dashboard Features
+
+- Dynamic filters for room type, group, and borough
+- KPI cards:
+  - Total Listings
+  - Average Price
+  - Reviews per Month
+- Top 10 neighborhoods by listing count
+- Price vs. Minimum Nights scatter plot
+- Average price by borough and room type
+- Availability and review performance comparison
+
+---
+
+## 🔍 Key Insights
+
+### 🏙 Manhattan Dominates Pricing
+Manhattan listings have the highest average prices compared to other boroughs.
+
+### 🏠 Entire Home/Apartment Leads the Market
+Entire home/apartment is the most common and most expensive room type.
+
+### 📈 Optimization Opportunities
+Listings with high availability but low reviews suggest potential improvement areas in:
+- Marketing
+- Pricing strategy
+- Listing presentation
+
+### 🗺 Neighborhood Performance
+A few neighborhoods contribute heavily to total listing counts, indicating concentrated competition zones.
+
+---
+
+## ▶️ How to Run This Project
+
+1. Download the repository.
+2. Open the file:
+```
+Airbnb_NYC_Dashboard.pbix
+```
+3. Open using Microsoft Power BI Desktop.
+4. Interact with filters and visuals to explore insights.
+
+Optional:
+- Review `Airbnb_Insights_Report.docx` for summarized findings.
+- View `Dashboard_Screenshot.png` for preview.
+
+---
