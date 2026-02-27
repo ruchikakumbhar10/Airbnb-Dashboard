@@ -31,3 +31,44 @@ Airbnb-PowerBI-Dashboard-NYC/
 │
 └── README.md
 ```
+---
+
+## 🎯 Problem Statement
+
+The New York City Airbnb market is highly competitive, with thousands of listings across multiple boroughs and room types.
+
+Key business questions addressed in this project:
+
+- Which boroughs have the highest average prices?
+- What room types generate the most revenue?
+- Which neighborhoods dominate in listing count?
+- How do availability and review activity affect performance?
+- Are there optimization opportunities for underperforming listings?
+
+This project answers these questions through interactive data visualization and analysis.
+
+---
+
+## 📊 Dataset Description
+
+The dataset contains detailed information about Airbnb listings in New York City.
+
+### Key Columns Include:
+
+- id  
+- name  
+- host_id  
+- neighbourhood_group (Borough)  
+- neighbourhood  
+- room_type  
+- price  
+- minimum_nights  
+- number_of_reviews  
+- reviews_per_month  
+- availability_365  
+
+Each row represents a unique Airbnb listing.
+
+The dataset enables analysis of pricing trends, neighborhood performance, and listing behavior.
+
+---
