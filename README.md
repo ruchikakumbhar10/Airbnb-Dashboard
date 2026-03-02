@@ -45,7 +45,7 @@ Key business questions addressed in this project:
 - How do availability and review activity affect performance?
 - Are there optimization opportunities for underperforming listings?
 
-This project answers these questions through interactive data visualization and analysis.
+This project answers these questions through interactive Data Visualization and Analysis.
 
 ---
 
@@ -159,7 +159,7 @@ Entire homes dominate revenue potential, while shared and private rooms cater mo
 
 Availability and review metrics highlight untapped potential for certain listings.
 
-The dashboard enables data-driven decisions for hosts and market analysts to optimize pricing and performance strategies.
+The Dashboard enables Data-driven Decisions for hosts and market analysts to optimize pricing and performance strategies.
 
 ---
 
