@@ -183,7 +183,7 @@ Power BI | SQL | Python | Data Visualization
 
 ## ⭐ Ending Note
 
-This project is part of my data analyst learning journey. It demonstrates my ability to clean, analyze, and visualize real-world datasets using Power BI to generate actionable insights.
+This project is part of my Data Analyst learning journey. It demonstrates my ability to Clean, Analyze, and Visualize real-world datasets using Power BI to generate actionable insights.
 
 I’m continuously learning and open to feedback to improve my analytical and storytelling skills.
 
