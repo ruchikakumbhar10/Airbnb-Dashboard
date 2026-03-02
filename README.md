@@ -1,5 +1,5 @@
 #  Airbnb Power BI Dashboard – Airbnb Trends New York City
-An interactive Power BI dashboard analyzing Airbnb listings in New York City to uncover pricing patterns, neighborhood performance, and listing optimization opportunities.
+An interactive Power BI dashboard analyzing Airbnb listings in New York City to uncover Pricing Patterns, Neighborhood Performance, and listing optimization opportunities.
 
 ---
 
